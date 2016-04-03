@@ -1,0 +1,20 @@
+{
+  "name": "wale-bot",
+  "version": "1.0.0",
+  "description": "Wale is a travel information assistant bot. Built on the MS Bot Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "travel",
+    "bus"
+  ],
+  "author": "Anibe Agamah",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^0.6.4",
+    "restify": "^4.0.4"
+  }
+}
